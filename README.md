@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hannan</h1>
+<h3 align="center">BCA Student | Full Stack Developer | ML Enthusiast</h3>
 
-<!--
-**Hannan01-nil/Hannan01-nil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Studying at VIT
+- 💻 Working on Full Stack & ML projects
+- 🚆 Built "Track My Train" project
+- 📊 Interested in Data Science & AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,mongodb,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Hannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hannan01-nil&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Hannan01-nil&theme=tokyonight)
+
+---
+
+### 🌐 Connect with me
+- LinkedIn: https://www.linkedin.com/in/mohamed-hannan-9703763a0/
+- GitHub: https://github.com/Hannan01-nil
