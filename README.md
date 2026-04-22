@@ -36,15 +36,6 @@ Dedicated to building scalable web applications, solving real-world problems, an
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hannan01-nil&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📌 Featured Project
-
-### 🚆 Track My Train
-A train tracking system developed using Python and Database Management concepts to provide train route and timing information efficiently.
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mohamed-hannan-9703763a0/  
