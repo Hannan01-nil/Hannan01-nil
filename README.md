@@ -28,14 +28,8 @@ Focused on building scalable applications, solving real-world problems, and cont
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
 </p>
-
-<p align="center">
-Core Skills: DSA • OOP • DBMS • OS • Web Development • REST APIs
-</p>
-
----
 
 ## 📊 GitHub Activity
 
