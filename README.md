@@ -26,7 +26,7 @@ Passionate about building modern applications, solving real-world problems, and 
 ## 🛠️ Technical Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,c,cpp,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 <p align="center">
